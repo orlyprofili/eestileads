@@ -211,15 +211,56 @@ Source: [Official OpenAI GPT-5.6 Sol documentation](https://developers.openai.co
 
 ### Advertising and total budget
 
+The following are temporary launch and scaling scenarios, not a recommendation to spend C$3,000 indefinitely.
+
 | Operating mode | Monthly advertising budget | Expected all-in monthly cost |
 |---|---:|---:|
 | Small pilot | C$1,500 | C$1,515–1,610 |
 | Recommended initial learning period | C$3,000 | C$3,015–3,110 |
 | Scaling | C$5,000 | C$5,030–5,150 |
 
-The recommended initial advertising budget is **C$3,000 per month**, ideally maintained for an approximately eight-week learning period. That means planning for roughly **C$6,000 in total advertising spend across the initial two-month test**, plus C$30–110 per month for software and communications. After the test, the monthly advertising budget should be reduced, maintained, or increased based on cost per qualified opportunity, quote, and signed job.
+The recommended initial advertising budget is **C$3,000 per month**, ideally maintained for an approximately eight-week learning period. That means planning for roughly **C$6,000 in total advertising spend across the initial two-month test**, plus C$15–110 per month for software and communications. After the test, the monthly advertising budget should be reduced, maintained, or increased based on cost per qualified opportunity, quote, and signed job.
 
 At C$1,500 per month, the campaign may not generate enough qualified monthly outcomes to support reliable optimization, particularly when Google's recommended optimization threshold is at least 15 monthly conversions at the selected funnel stage.
+
+### Expected steady-state range
+
+For a single small contractor, the expected cruising range after the initial experiment is approximately **C$600–2,200 per month in total**, consisting of C$15–110 of software and communications and roughly C$500–2,100 of advertising. This range is not guaranteed to produce a particular number of leads. It is an affordability range that must be constrained by contractor revenue, available capacity, and signed-job economics.
+
+Paid advertising does not naturally disappear as the campaign learns. The budget can shrink or be paused only when organic search, Google Business Profile, reviews, referrals, or existing demand supply enough work. Paid lead volume will normally fall when paid spend falls.
+
+### When marketing spend is affordable
+
+Canadian government data for residential building SMEs reports average annual revenue of approximately C$533,000, with 76.3% of businesses profitable. The broader residential-building category—which includes remodelers as well as other residential contractors—reported an average net margin of 10.4% in 2024. Profitable firms averaged approximately C$532,000 of revenue and C$102,000 of net profit. Owner salary may already be included in expenses, so reported net profit is not necessarily the owner's entire compensation.
+
+Source: [Canadian Industry Statistics: residential building construction](https://www.ised-isde.canada.ca/app/ixb/cis/performance/23611?lang=eng)
+
+The table below compares the proposed steady-state marketing range with a business at different revenue levels. "Benchmark profit" applies the reported 10.4% industry-wide net margin only as a planning reference. The marketing share shows how large the annual marketing commitment is relative to that profit pool if the spend produces no incremental profit and does not replace existing lead purchases.
+
+| Annual contractor revenue | Benchmark profit at 10.4% | C$600/month marketing | C$1,200/month marketing | C$2,200/month marketing | Practical interpretation |
+|---:|---:|---:|---:|---:|---|
+| C$150,000 | C$15,600 | 46% of benchmark profit | 92% | 169% | C$600 is already material; higher spend is dangerous without immediate, measured wins. |
+| C$250,000 | C$26,000 | 28% | 55% | 102% | Stay near the low end; C$2,200 can consume an entire typical profit year. |
+| C$400,000 | C$41,600 | 17% | 35% | 63% | C$600–1,200 is defensible; C$2,200 should require proven signed-job returns. |
+| C$500,000 | C$52,000 | 14% | 28% | 51% | C$600–1,200 is a reasonable base; C$2,200 remains an aggressive growth budget. |
+| C$750,000 | C$78,000 | 9% | 18% | 34% | Most of the cruising range is affordable if capacity and attribution are sound. |
+| C$1,000,000 | C$104,000 | 7% | 14% | 25% | C$2,200 is comparatively modest, subject to campaign profitability. |
+
+These percentages do **not** mean that marketing literally reduces existing profit by the full amount. A successful campaign creates revenue and gross profit, while advertising that replaces C$100 incumbent leads is not entirely incremental spending. The table is a downside guardrail showing how damaging the commitment becomes when it fails to generate work.
+
+For this project, the operating zones should be:
+
+- **Green:** Marketing is no more than roughly 3% of annual revenue, acquisition cost is no more than 15% of attributable gross profit, and the contractor has capacity for the resulting work.
+- **Yellow:** Marketing is 3–6% of annual revenue or consumes 15–30% of attributable gross profit. Continue only with reliable quote and signed-job tracking.
+- **Red:** Marketing exceeds 6% of annual revenue, consumes more than 30% of attributable gross profit, or is being funded without enough cash runway to complete the test. Reduce or pause unless this is an explicitly time-limited launch investment.
+
+Examples:
+
+- A C$250,000 contractor spending C$2,200 per month allocates 10.6% of revenue to this channel before software, which is too aggressive for steady-state operation.
+- A C$500,000 contractor spending C$1,200 per month allocates 2.9% of revenue, which is reasonable if it produces attributable contracts.
+- A C$750,000 contractor spending C$2,200 per month allocates 3.5% of revenue, which can be rational but still needs measurable acquisition returns.
+
+The final control is job-level economics. If a signed job contributes C$8,000 of gross profit after direct labour, materials, and subcontractors, a customer-acquisition cost around C$800–1,200 is healthy for this project. C$2,400 or more would consume at least 30% of that gross profit and should normally trigger a campaign or sales-process review.
 
 ## Acquisition economics
 
@@ -245,6 +286,160 @@ At C$3,000 of monthly advertising spend:
 Therefore, replacing the incumbent based only on advertised cost per lead would be premature. C$100 is attractive if each lead is exclusive, reachable, phone-qualified, in the service area, appropriate in budget and timing, and refundable when invalid.
 
 The incumbent is much easier to beat if leads are shared, weakly screened, unresponsive, outside the target territory, non-refundable, or counted differently from the owned system's leads.
+
+## Competitive analysis
+
+**Research date:** September 3, 2026
+
+The contractor's current supplier is ContractorLaunch. This is an important clarification because ContractorLaunch is not merely a marketplace like HomeStars or Bark. It publicly describes a done-for-you, performance-priced acquisition system that creates exclusive leads under the contractor's brand, supplies a CRM, uses AI for follow-up and booking, and charges $99 per qualified homeowner.
+
+All prices, features, lead-quality claims, and outcome claims below come from public vendor materials unless stated otherwise. They should not be treated as audited performance. The signed client agreement, invoices, account permissions, and actual lead outcomes are more authoritative than marketing pages.
+
+### Market categories
+
+The competitors fall into three different categories:
+
+1. **Shared marketplaces:** HomeStars and Bark attract homeowners to a marketplace and charge contractors to access or connect with them. Several contractors may compete for the same project.
+2. **Performance lead vendors:** ContractorLaunch and RenoLeadz advertise and qualify leads, charge for delivered leads, and publicly promise exclusivity.
+3. **Owned-account marketing platforms:** CoreLaunch charges software and management fees while the contractor pays advertising platforms directly and retains its accounts and data.
+
+Comparing cost per lead across these categories without considering exclusivity, qualification, media spend, ownership, and refund rules is misleading.
+
+### Summary matrix
+
+| Service | Model and public pricing | Exclusive? | Qualification and remedy | Contractor ownership | Main concern |
+|---|---|---|---|---|---|
+| **ContractorLaunch** | $99 per qualified homeowner; public site says no setup fee, monthly retainer, or long contract | Publicly claims yes | Criteria are set with the client; homepage says non-matching leads are not charged, while public terms say credits are governed by the client agreement | Homepage says ads, automations, and CRM are built under the contractor's name and owned for life | Public ownership and refund claims conflict with general terms; currency and whether ad spend is included should be confirmed in writing |
+| **RenoLeadz** | C$450 for 3 leads, C$650 for 5, or C$1,250 for 10; effective C$125–150 per lead; advertising included | Publicly claims yes | OTP phone verification and quality screening; invalid leads are replaced rather than refunded | Vendor runs the lead engine, landing pages, CRM, and follow-up; portability is not established on the public page | More expensive than ContractorLaunch if lead quality is equivalent; claims are self-published and require a controlled test |
+| **HomeStars** | No general public price list; contractor pays a fee when shortlisted and receives homeowner contact details | No; homeowner can connect with up to three pros | Matching is based on project and profile; professional agreement expressly disclaims guarantees of lead quality, intent, accuracy, volume, or a resulting job | Profile and reputation live on HomeStars; the contractor does not own the marketplace demand source | Contractor may pay while still competing against other shortlisted pros |
+| **Bark** | Free account; variable credit charge disclosed before contacting each lead | No; as many as five professionals can respond | Customer answers matching questions; credit returns within 14 days are limited mainly to invalid contact information, duplicates/tests, or minors | Contractor receives contact details but does not own the marketplace or acquisition channel | Shared competition, variable pricing, credit expiry, and limited remedies for merely unresponsive or low-intent prospects |
+| **CoreLaunch** | C$99/month plus 12.5% of ad spend; contractor pays Google and Meta directly | Yes, because campaigns run for the contractor | Automated site, campaigns, lead response, tracking, and optimization; no promised fixed lead price | Publicly says contractor keeps the domain, site, ad accounts, reports, and leads | Contractor bears media-performance risk; total cost depends on ad spend and actual conversion rate |
+
+### ContractorLaunch
+
+ContractorLaunch is the most relevant competitor and the benchmark this project must beat. Its public offer includes:
+
+- $99 per qualified homeowner.
+- Exclusive leads generated under the contractor's brand.
+- No setup fee, monthly retainer, or long-term contract.
+- Meta advertising, creative testing, CRM implementation, AI texting, nurturing, reminders, and calendar booking.
+- Qualification based on project type, budget, service area, and other client criteria.
+
+Sources:
+
+- [ContractorLaunch homepage and pricing](https://contractorlaunch.io/)
+- [ContractorLaunch services](https://contractorlaunch.io/services)
+- [ContractorLaunch terms and conditions](https://contractorlaunch.io/tandc)
+
+If the $99 is Canadian dollars, includes all media spend, applies only to genuinely qualified exclusive homeowners, and has no minimum monthly purchase, this is a very strong offer. The custom system should not be expected to beat it immediately on cost per qualified lead: published GTA paid-acquisition estimates alone are commonly around C$100–200 per estimate request before custom software overhead.
+
+The public materials leave several material questions unresolved or inconsistent:
+
+- **Currency:** The public page displays `$99` without clearly identifying CAD or USD.
+- **Advertising cost:** The page presents $99 as the simple price and says there are no retainers or setup fees, but it does not explicitly state whether media spend is included or separately charged.
+- **Qualification:** The public terms say criteria are established by the client but that qualification does not guarantee an appointment, sale, approval, financing, or customer availability. Lead-credit rules exist only in the client agreement.
+- **Bad leads:** The homepage says a lead that does not match the criteria is not charged. The public terms say payments are generally non-refundable and quality concerns, where applicable, are resolved through credits under the client agreement.
+- **Ownership:** The homepage and services page say the contractor owns the system and CRM for life. Section 8 of the public terms says ContractorLaunch retains ownership of its ads, templates, automations, software configurations, funnels, copy, graphics, and internal processes and provides only a limited licence during an active relationship.
+- **Exit portability:** Public material does not establish exactly what remains usable after cancellation, including CRM workflows, phone numbers, domains, pixels, audiences, campaign history, creative files, and homeowner data exports.
+
+These are not proof of wrongdoing; the public terms explicitly say the signed Service Agreement governs the specific service. They are reasons to inspect that agreement before funding a replacement system.
+
+The buddy should supply a redacted copy of the ContractorLaunch agreement and two or three months of invoices and CRM exports. The following terms should be recorded exactly:
+
+1. Currency, taxes, and whether media spend is included.
+2. Minimum lead purchase, monthly cap, and cancellation terms.
+3. The complete billable-lead definition.
+4. Evidence required to dispute a lead and the dispute window.
+5. Credit, replacement, and refund rules.
+6. Whether an appointment must be booked for a lead to be billable.
+7. Whether the lead is ever sold or routed to another contractor.
+8. Administrative ownership of Meta, domains, CRM, pixels, phone numbers, and data.
+9. Export and continued-use rights after cancellation.
+10. Historical counts for delivered, reachable, qualified, booked, quoted, won, and lost leads.
+
+### RenoLeadz
+
+RenoLeadz publicly offers GTA coverage and bundles that include advertising:
+
+- C$450 plus tax for 3 exclusive leads: C$150 per lead.
+- C$650 plus tax for 5 exclusive leads: C$130 per lead.
+- C$1,250 plus tax for 10 exclusive leads: C$125 per lead.
+- No separate advertising spend or setup fee.
+- Phone verification, screening, automated follow-up, and replacement of invalid leads.
+
+Source: [RenoLeadz pricing and FAQ](https://renoleadz.com/)
+
+On published pricing, ContractorLaunch is cheaper if the two vendors use comparable qualification standards. RenoLeadz is still useful as an external price check because its lead bundles and included advertising costs are stated more explicitly. Its public testimonials and revenue claims are vendor-controlled and should not substitute for a small trial with source-level outcome tracking.
+
+### HomeStars
+
+HomeStars is a marketplace and reputation platform rather than an exclusive contractor-branded acquisition system. Homeowners post a project, professionals express interest, and the homeowner chooses which professionals to shortlist. The contractor is charged when shortlisted and receives the homeowner's contact details. HomeStars says a homeowner can connect with up to three professionals.
+
+Its professional agreement explicitly says that lead frequency, volume, quality, customer interest, customer data accuracy, creditworthiness, and job outcomes are not guaranteed. This makes a HomeStars connection fundamentally different from a contractually defined exclusive qualified lead.
+
+Sources:
+
+- [HomeStars professional registration and lead process](https://www.homestars.com/pro/register)
+- [HomeStars professional user agreement](https://www.homestars.com/assets/en_CA/HomeStars-Professional-User-Agreement-January-2025.pdf)
+- [HomeStars homeowner matching process](https://www.homestars.com/blog/hiring-pros-on-homestars)
+
+HomeStars can be useful as a supplemental source and review asset, especially when the contractor has a strong profile. It is not the cleanest substitute for ContractorLaunch because the lead may be shared and the platform provides much weaker public quality guarantees.
+
+### Bark
+
+Bark is a broad service marketplace. Contractors can browse matched requests and spend credits only when they choose to contact a customer. Pricing varies with service, project size, location, demand, and intent. Up to five professionals can respond to the same customer.
+
+Credit returns must generally be requested within 14 days and cover invalid contact details, duplicates or tests, and submissions by minors. Monetary refunds are limited and discretionary. A legitimate but unresponsive or price-shopping homeowner is therefore materially different from a refundable invalid lead.
+
+Sources:
+
+- [Bark Canada pricing model](https://www.bark.com/en/ca/sellers/pricing/)
+- [Bark lead pricing factors](https://help.bark.com/hc/en-ca/articles/18043745477788-Understanding-lead-pricing)
+- [Bark response limits](https://help.bark.com/hc/en-ie/articles/28463866842652-How-many-responses-can-a-customer-receive)
+- [Bark credit-return rules](https://help.bark.com/hc/en-ca/articles/27458342155932-Refunds-vs-Credit-Returns)
+
+Bark offers flexible, low-commitment access to demand but appears poorly aligned with a high-ticket contractor seeking exclusive opportunities and predictable qualification.
+
+### CoreLaunch
+
+CoreLaunch is the closest public comparison to building and owning this project's proposed stack. It advertises:
+
+- C$99 per month plus 12.5% of actual ad spend.
+- Google and Meta advertising paid from the contractor's accounts.
+- A contractor-owned website, domain, ad accounts, reports, and leads.
+- Automated creative, SEO content, tracking, CRM delivery, SMS response, and campaign optimization.
+- No contract and cancellation at any time.
+
+Source: [CoreLaunch pricing and ownership model](https://corelaunch.ca/)
+
+At C$1,000 of monthly advertising, its public fee structure implies approximately C$1,224 total before usage costs: C$1,000 media, C$125 management, and C$99 platform access. At C$2,000 of media, the comparable total is C$2,349. The resulting cost per qualified lead depends entirely on campaign performance.
+
+This model provides clearer financial and asset ownership than a pay-per-lead supplier, but the contractor assumes the risk of unsuccessful advertising. A custom implementation mainly competes with CoreLaunch on flexibility, verifiability, and avoiding the recurring platform and management fee—not on eliminating media cost.
+
+### Other services considered
+
+RenovationFind publicly describes manually pre-qualified homeowner projects, matching based on trade, location, and capacity, and a contractor portal where leads can be accepted. Its public page does not disclose contractor pricing or establish exclusivity, making a financial comparison impossible without a sales quote.
+
+Source: [RenovationFind lead generation](https://www.renovationfind.com/products/lead-generation)
+
+RenoAssistance uses a success-fee model: there are no membership or annual fees, up to three verified contractors can bid, and a fee is charged only when a contractor wins. Its current homeowner service-area page lists Greater Montréal, Greater Québec, Greater Ottawa, Estrie, Laurentians, Mauricie, and Outaouais—not Toronto—so it is not presently a direct GTA option based on the public coverage information.
+
+Sources:
+
+- [RenoAssistance contractor FAQ](https://www.renoassistance.ca/en/contractor/faq)
+- [RenoAssistance service areas](https://www.renoassistance.ca/en/residential/faq)
+
+### Competitive conclusion
+
+The market is crowded, but the offerings are not interchangeable. For this contractor:
+
+1. **ContractorLaunch is the incumbent to benchmark and potentially retain.** If its actual agreement matches the public $99 exclusive-qualified-lead promise and historical signed-job economics are good, replacing it solely to save money is not currently justified.
+2. **RenoLeadz is the clearest performance-priced alternative.** Its published C$125–150 per lead is more expensive but explicitly includes advertising and replacements.
+3. **HomeStars and Bark are supplemental marketplaces.** They expose the contractor to direct competition and should be evaluated separately from exclusive leads.
+4. **CoreLaunch is a buy-versus-build benchmark.** It offers an owned-account model at a transparent recurring fee but leaves the contractor responsible for media efficiency.
+5. **The custom project's strongest initial role may be measurement and owned organic acquisition rather than replacing ContractorLaunch.** A lightweight CRM and attribution layer can determine ContractorLaunch's true cost per reachable lead, quote, signed job, and gross-profit dollar while contractor-owned web, review, referral, and organic assets are developed.
+
+The decision should be deferred until ContractorLaunch's actual contract and at least two months of source-level sales outcomes are available. Based only on its public offer, C$99 for an exclusive, properly qualified homeowner with advertising and nurturing included is more attractive than the original assessment assumed.
 
 ## Required experiment
 
